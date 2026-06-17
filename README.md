@@ -148,14 +148,14 @@ curl -X POST http://localhost:8002/ `
 ### Image 1: Weather Dashboard Home Interface 
 
 <img width="720" height="350"
-       src="https://github.com/user-attachments/ass/4a828d20-bbc6-487e-b4b9-58c4b8b816ab"
+       src="https://github.com/user-attachments/assets/fda6c3a6-8592-41e6-9ef4-e2faa5ac4517"
        alt="Image">
 </p>
 
 ### Image 2: Real-Time Weather Information Interface
 
 <img width="720" height="350"
-       src="https://github.com/user-attachments/assts/4a828d20-bbc6-487e-b4b9-58c4b8b816ab"
+       src="https://github.com/user-attachments/assets/0c0dccf4-2883-4533-8772-32f3ad549974"
        alt="Image">
 </p>
 
