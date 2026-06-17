@@ -10,13 +10,13 @@ Google Gemini API for AI-powered responses through FastMCP.
 
 * **MCP Server**
 
-* Retrieves current weather information for any location.
-* Generates AI-powered responses using Google Gemini.
+** Retrieves current weather information for any location.
+** Generates AI-powered responses using Google Gemini.
 
 * **Weather Dashboard**
 
-* Provides an interactive and user-friendly interface.
-* Displays weather details for the selected city instantly.
+** Provides an interactive and user-friendly interface.
+** Displays weather details for the selected city instantly.
 
 ---
 
@@ -152,6 +152,8 @@ curl -X POST http://localhost:8002/ `
        src="https://github.com/user-attachments/assets/fda6c3a6-8592-41e6-9ef4-e2faa5ac4517"
        alt="Image">
 </p>
+
+---
 
 ### Image 2: Real-Time Weather Information Interface
 
